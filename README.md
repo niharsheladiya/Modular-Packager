@@ -1,4 +1,3 @@
-# Modular-Packager
 <div align="center">
 
 ![Modular Packager Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Modular%20Packager&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Multi-Utility%20Toolkit&descAlignY=58&descSize=20)
@@ -10,6 +9,14 @@
 A modular, menu-driven Python command-line application that bundles several everyday utilities — date/time tools, math operations, random data generation, UUID creation, file handling, and module introspection — into a single interactive program.
 
 Built with a clean **modular package structure**, where each feature category lives in its own module and `main.py` acts as the central packager/entry point tying everything together.
+
+---
+
+## 🎥 Video Explanation
+
+Want to see the Modular Packager in action? Check out the walkthrough video below:
+
+▶️ **[Watch the video explanation here](https://your-video-link-here.com)**
 
 ---
 
