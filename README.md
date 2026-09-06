@@ -16,7 +16,7 @@ Built with a clean **modular package structure**, where each feature category li
 
 Want to see the Modular Packager in action? Check out the walkthrough video below:
 
-▶️ **[Watch the video explanation here](https://your-video-link-here.com)**
+▶️ **[Watch the video explanation here](https://drive.google.com/file/d/1lgvapDMySX260B-ZPgcm8SsGTxhCc6Jl/view?usp=sharing)**
 
 ---
 
