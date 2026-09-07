@@ -37,7 +37,7 @@
 
 Prefer watching over reading? Here's a full walkthrough of Modular Packager in action:
 
-▶️ **[Watch the Video Explanation](https://your-video-link-here.com)**
+▶️ **[Watch the Video Explanation](https://drive.google.com/file/d/1lgvapDMySX260B-ZPgcm8SsGTxhCc6Jl/view?usp=sharing)**
 
 > 🔧 Swap the link above for your real YouTube / Google Drive / Loom recording.
 
